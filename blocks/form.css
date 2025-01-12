@@ -36,6 +36,7 @@
   line-height: 20px;
   cursor: pointer;
   transition: background-color 0.5s;
+  background-color: #1878dc;
 }
 
 .form__button:hover {
